@@ -1,4 +1,4 @@
-# Cybersecurity Audit Lab Documentation
+# Cybersecurity Audit Lab
 
 <img width="430" alt="2024-12-30" src="https://github.com/user-attachments/assets/2f319ba5-edb4-403f-8409-af6a5f7bd629" />
 
