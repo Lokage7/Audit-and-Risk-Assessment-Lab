@@ -13,35 +13,44 @@ The lab emphasizes the integration of auditing and risk assessment to enhance an
 
 ## Audit Process
 
-### 1. Plan
+### 1. Plan - 
+__This is the most important part of the audit, I want to give myself enough time to perform the audit, mitigate findings, and document.__ 
 - Develop an audit plan with clear objectives, timelines, and methodology.
+- Allow time to perform audit, mitigate findings, and document. 
 - Conduct initial meetings to identify systems, processes, and personnel in scope.
 - Gather initial documentation, such as Information Security Policies (ISP), configuration standards, vendor documentation, and previous audit reports.
 
 ### 2. Determine Audit Scope
+
+__Determining in-scope areas and reducing scope is crucial to ensure the audit remains focused and manageable, facilitating a more efficient and effective assessment process. By clearly defining the scope, I can concentrate on critical systems and processes, minimizing unnecessary complexities and resource allocation.__
 - Define the people, processes, and technology included in the audit.
 - Identify in-scope requirements and controls.
 - Engage with departments to identify third-party service providers (TPSPs), clients, system/application owners, and system inventories.
 - Ensure alignment of scope with business objectives and regulatory requirements.
 
 ### 3. Collect Evidence
+__Collecting evidence is essential for accurately assessing an organization's cybersecurity posture. This step involves gathering relevant data, logs, and documentation to support findings and conclusions.__
 - Gather relevant documentation from departments:
   - Network Team: Diagrams, configurations, internal policies.
   - Accounting Team: Audit reports, third-party contracts, vendor agreements.
   - Security Team: Encryption policies, breach reports, security policies.
-- Conduct interviews with key personnel (e.g., system owners, administrators, legal, HR).
+- Establish key Point of Contact(s) in each department
+- Conduct interviews with key personnel (e.g., system owners, administrators, legal, HR)
 
 ### 4. Review Documentation for Compliance
-- Compare the organization's ISP against industry standards.
+__Reviewing documents for compliance with relevant standards is important because these documents will be used throughout the rest of the audit. If they aren't compliant, they must be pushed back, and I cannot continue.__
+- Compare the organization's ISP against relevant industry standards.
 - Highlight gaps and recommend remediation actions.
 - Identify areas requiring further investigation during the audit execution.
 
 ### 5. Validation Testing/System Review
+__Validation testing is essential to ensure the media protection controls are working as intended. This involves verifying that the controls, such as data encryption, sanitization procedures, and access restrictions, are properly implemented and functioning.__
 - Verify evidence reliability and compliance through:
-  - Hands-on system testing.
-  - Vulnerability assessments, penetration testing, and configuration checks.
+  - Hands-on / Over-the-Shoulder system testing.
+  - Vulnerability assessments, configuration checks, etc.
 
 ### 6. Post-Audit Procedures
+__In this step, the audit findings are compiled into a formal report. This includes detailing any non-compliance or weaknesses identified, along with recommendations for improving media protection controls. The goal is to provide actionable steps for remediation to strengthen the organization’s security posture and ensure compliance with relevant standards.__
 - **Reporting Findings**:
   - Document findings in a standardized format.
   - Highlight non-compliance areas and recommend remediation.
